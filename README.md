@@ -1,4 +1,9 @@
+
+
+
 ### Hi there 👋
+![banner](https://user-images.githubusercontent.com/22968884/157333034-8bb780b0-b40d-49b1-923d-ceecc76ee58d.png)
+
 
 <!--
 **bdicicco88/bdicicco88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
