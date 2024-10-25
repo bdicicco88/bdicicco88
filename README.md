@@ -1,4 +1,4 @@
-# 🧙‍♂️ About Me:
+# 🧙‍♂️ About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-dicicco)
 Hi there! I'm Brandon, a developer passionate about coding and experimenting with new projects. I enjoy tackling diverse challenges and building solutions that make a difference.
 
 # 💻 Tech Stack:
@@ -24,10 +24,3 @@ Hi there! I'm Brandon, a developer passionate about coding and experimenting wit
 **Marketing Automation**  
 ![Salesforce Marketing Cloud](https://img.shields.io/badge/-SFMC-009EDB?logo=salesforce&logoColor=white&style=flat-square)
 
-
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-dicicco)
-
-[![](https://visitcount.itsvg.in/api?id=bdicicco88&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
