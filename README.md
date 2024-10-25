@@ -2,7 +2,28 @@
 Hi there! I'm Brandon, a developer passionate about coding and experimenting with new projects. I enjoy tackling diverse challenges and building solutions that make a difference.
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages & Databases**  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
+
+**Version Control**  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+**API Development & Testing**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-000000?logo=api&logoColor=white&style=flat-square)
+
+**Communication & Monitoring**  
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat-square)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
+![PagerDuty](https://img.shields.io/badge/-PagerDuty-006400?logo=pagerduty&logoColor=white&style=flat-square)
+
+**CI/CD**  
+![TeamCity](https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=white&style=flat-square)
+
+**Marketing Automation**  
+![Salesforce Marketing Cloud](https://img.shields.io/badge/-SFMC-009EDB?logo=salesforce&logoColor=white&style=flat-square)
+
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-dicicco)
