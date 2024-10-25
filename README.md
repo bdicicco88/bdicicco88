@@ -1,6 +1,5 @@
 # 🧙‍♂️ About Me:
-Collaborative, detail-focused Software Development Professional with a proven ability to drive quality, reliability, and functionality in mission-critical systems and platforms.
-
+Hi there! I'm Brandon, a developer passionate about coding and experimenting with new projects. I enjoy tackling diverse challenges and building solutions that make a difference.
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
