@@ -10,6 +10,7 @@ Hi there! I'm Brandon, a developer passionate about coding and experimenting wit
 
 **Version Control**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 **API Development & Testing**  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
